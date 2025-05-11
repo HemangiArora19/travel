@@ -1,0 +1,1 @@
+export const BASE_URL= `https://backend-sct9.onrender.com`
